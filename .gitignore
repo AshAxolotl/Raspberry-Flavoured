@@ -26,7 +26,6 @@ crash-reports
 debug
 local
 modernfix
-mods
 resourcepacks
 screenshots
 schematics
@@ -48,14 +47,11 @@ logs
 emf
 data
 .qmenu_opened.marker
-emi.json
-icon.png
 panorama.dat
 kubejs/exported
 kubejs/probe
 kubejs/jsconfig.json
 kubejs/README.txt
-config/emi.css
 config/openloader/resources/*
 !config/openloader/resources/99_RaspberryResources
 
