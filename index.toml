@@ -30739,6 +30739,11 @@ hash = "b2a8a34e87a5ffdbfcb35d1df344e630ac968aad359eced94aa58a184f2d3fa8"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "dd80e2c53c22efca03983ceeecfccdf3cc48dee94d83e955188989f04f5e9f9b"
+metafile = true
+
+[[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "6e20620b3f4b8509c545712d1a57b80d7f5001c6b909f1971d06e4ee36e23886"
 metafile = true
@@ -31289,6 +31294,11 @@ hash = "72a59c2986711752107afb9877fe7eebed964a276d09beb6dbe088fb992d52cf"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "7b7514b4925dd3d9f7a707b9df36d639e057fdc50612e289b77ea01f7c6759d1"
+metafile = true
+
+[[files]]
 file = "mods/personality.pw.toml"
 hash = "34eaa62a613a766bd8369cc85683bb679014cbcb5852bccbb94ea8bcd993b5e4"
 metafile = true
@@ -31471,6 +31481,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "1a207c92023b8a47c9c50be912e38b18c69f85f42449afd82130247a7e7d01f1"
 metafile = true
 
 [[files]]
