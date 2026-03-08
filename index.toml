@@ -14981,6 +14981,10 @@ file = "config/visuality/particle_emitters/entity_hit.json"
 hash = "a8effae48031de59b4b58aefa23eebf5070e8cabfb47b070c65c4bb20d4ec6a2"
 
 [[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "329853ce8e2d9d9bf4920f6313ea8194eab156b18fa49731975eca533cd96f85"
+
+[[files]]
 file = "config/windswept-client.toml"
 hash = "09811074f4ffbc935288534b5ceb29e8379a17b9b8404ee173e3b4f81dcbce95"
 
