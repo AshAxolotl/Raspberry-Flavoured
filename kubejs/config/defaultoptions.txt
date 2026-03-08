@@ -198,7 +198,7 @@ key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.k
-key_supplementaries.keybind.quiver:key.keyboard.v
+key_supplementaries.keybind.quiver:key.keyboard.b
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.raised.hud.down:key.keyboard.keypad.unknown
@@ -215,6 +215,16 @@ key_keybind.additional_enchantments.ore_sight:key.keyboard.unknown
 key_keybind.additional_enchantments.voiding:key.keyboard.unknown
 key_key.jade.show_overlay:key.keyboard.right.control
 key_key.jade.show_details:key.keyboard.world.2
+key_key.push_to_talk:key.keyboard.unknown
+key_key.whisper:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.unknown
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_key.voice_chat:key.keyboard.v
+key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_group:key.keyboard.unknown
+key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

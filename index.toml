@@ -20922,7 +20922,7 @@ hash = "0aecb5693305ec5e362fee1d0c0f8a38399e229e47a4d7603d04c4c44b5b20ba"
 
 [[files]]
 file = "kubejs/config/defaultoptions.txt"
-hash = "cd382a07d328a5c2ad4e12d68d4a9924e313c5586b6a3acba1bd8e812ee6fdc2"
+hash = "737132b2b14906e4ad472f445a3a71d79427474c8c40aaef5ad3ec8523add22b"
 
 [[files]]
 file = "kubejs/config/packicon.png"
@@ -31451,6 +31451,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "d94006a5350097fb6bdaf097dae2764ec2d00ca46ddcf8925eff64f8d8da3245"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "25698a601da8d74e4ce6650a03c4861c79908f5746e71d1dde4b54a00519c2a2"
 metafile = true
 
 [[files]]
