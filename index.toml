@@ -31603,3 +31603,128 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "0e85567c926451c9c5d18f786b9729a3b1672becad9fca2a7d203247f2396852"
 metafile = true
+
+[[files]]
+file = "resourcepacks/aquaculture-fishedup.pw.toml"
+hash = "740e64ebf716865581c726f04bd9b5355c71d07e15a62613a0d998afceedee88"
+metafile = true
+
+[[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "d688b96f7b6f530dba6a660bcbcdacfcd45e5584a15b2ba4bee7d9bdf7370e51"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bagels-animal-tweaks.pw.toml"
+hash = "b3050752319d680e3d327fd3df49f2c94e354c466d97e27d3438f683a65d1d6f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bagels-texture-tweaks.pw.toml"
+hash = "dd981d98ebd12d4ea903d1d7bad2fad7c42e3d237b18911bb9034aa150d1447d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/banner-pattern-clarity.pw.toml"
+hash = "a547dea774b70885b92414ae745de71f9019795a6b8eda6fdf3aa736012e156f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-mob-models.pw.toml"
+hash = "ccc7dc9b4c8dcb281c1f5d655672b17f72e96cdcd6d8dc187691db42c06d5a3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brush-and-juice.pw.toml"
+hash = "a7cb7f9eeea18c9fd43a260be3cdb6f6f9b76f9d33a3955da131cf483120353e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/brush-up.pw.toml"
+hash = "7bba8824bfdba0213c3067baec8be792dde1e46855e6fc0830508867d7ebc71f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-modded-compats.pw.toml"
+hash = "f8ca5be62df66ccee48822932a91fad6ce381195fca3c4af0bacb6602c2d3238"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-touch-ups.pw.toml"
+hash = "ecbc86078aa0aafd5ed16cb67933d9a401e924990624597adc262e5ed600079e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/deepslate-ore-fix.pw.toml"
+hash = "2eb9dca0a6c9dcc1dfbc519ee229a9cf6bb61f5e5cde80ce496340d5da79c4c7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "f1d0fb4529169336ab5df8be8c23069ea1db3d5f56a56c4a1620a866b54bc0a1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-crafted.pw.toml"
+hash = "8d3be89a40060b51f07375e16feb600255c56fb1f5ca95d9548dc18635ee42a8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/golden-crit-sr-paulo.pw.toml"
+hash = "8b14722594d49db0e83057a2bd0dc7f81aac5795990ad5240809ce411cd56668"
+metafile = true
+
+[[files]]
+file = "resourcepacks/peeves.pw.toml"
+hash = "bf787c397570810d56435cecd0aefafdb0589ca0dbc87641fef7aa1d631dd11b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/quark-vro.pw.toml"
+hash = "4244916d429b82312cdcd29880494073c15973d870d77eca54a6b7f395119a35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/re-imagine-tom-simple-storage.pw.toml"
+hash = "3ec20249eaa9190028419c410a86c08292f84789e2ffed208957107a0203dd3e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/recreated.pw.toml"
+hash = "14bcce9b3433c77e0a3340237b5eadd5bab72cd117fb23fa41e2a3ceeb0fdd94"
+metafile = true
+
+[[files]]
+file = "resourcepacks/refined-armor.pw.toml"
+hash = "780b7ba11b50da17324cd6897a19f0fd788a514552f5e321de36c223d423a863"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reincarnation.pw.toml"
+hash = "8c66eb3990ddf217b8e859e277aeea21d92f0e0e7edbf8ddd4b319cf5c93d5cc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/remodeled-rabbit.pw.toml"
+hash = "b6ff0e48480e2631faf6712dea945a2f811bdbb355d343ef78933b11b98aea8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shc-enhanced-fire.pw.toml"
+hash = "6c18f5a507a5b6a71911451d80d0d4ea7cb75cae8a588f3b72a44d00aaed26a6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/up-to-scratch.pw.toml"
+hash = "955abf2cb9fd3a3503f7d4b9ab3398333a693963f78553a71670473b7b16f90b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-copper-colors.pw.toml"
+hash = "dd71f777d3123dade39fea3656593f9c341d92d65cc92c2a08be606bb7cc0773"
+metafile = true
+
+[[files]]
+file = "resourcepacks/warm-polar-bear.pw.toml"
+hash = "b5c8e1a6f751f3b97edb57f78ab1b17b81f03cf87564257169aad92b6dd8d675"
+metafile = true
