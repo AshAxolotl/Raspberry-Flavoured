@@ -1,0 +1,8 @@
+{
+  "CONFIG_VERSION": 1,
+  "iris_compatibility_fix": 2,
+  "inventory_scissor": false,
+  "action_wheel_button": "key.keyboard.unknown",
+  "popup_button": "key.keyboard.unknown",
+  "button_location": 4
+}

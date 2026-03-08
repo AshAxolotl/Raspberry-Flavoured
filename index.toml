@@ -865,6 +865,10 @@ file = "config/ferritecore-mixin.toml"
 hash = "f19906e5d155709cd2cbb4ebbc2edf72536ef946f550f9cbeac321bcb772d189"
 
 [[files]]
+file = "config/figura.json"
+hash = "0968ca0eea6e2a7a7f1db0681732ce1abb37ee7c3e814cece70ec30057511c95"
+
+[[files]]
 file = "config/flywheel-client.toml"
 hash = "f8b0adbc24fc40159fdcc1b1a109cf4afe8089318d3fe8b4a131d279f064bddd"
 
@@ -30942,6 +30946,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "eef0f6e5abfcff1cecd0791a30c8651e0fc8ed2519639bd6bab403934bd5cca9"
 metafile = true
 
 [[files]]
