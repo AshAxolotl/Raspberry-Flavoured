@@ -30768,11 +30768,6 @@ hash = "d8279468f5781d78b8e2e3c7bf426e569ce1a214df82042ace3eda64a3c74e28"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "5faccaeeaf1e3132178b87fc81ab6e06859bd55f464b6e4972a38fd54c11174c"
-metafile = true
-
-[[files]]
 file = "mods/death-knell.pw.toml"
 hash = "439e431b83e17300c972daa62942a03d6c719739a0312af91f6984c33797ef47"
 metafile = true
