@@ -1,6 +1,6 @@
 name = "OPack2Reload"
 filename = "0Pack2Reload-Forge-1.19.2-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

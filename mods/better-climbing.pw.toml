@@ -1,6 +1,6 @@
 name = "Better Climbing"
 filename = "better_climbing-forge-2.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
