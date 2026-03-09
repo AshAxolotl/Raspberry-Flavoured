@@ -1,57 +1,67 @@
-[flavor_groups.ambient]
-name = "AmbientSounds"
-description = "TODO"
+[flavor_groups.sound_physics]
+name = "Sound Physics"
+description = ""
+side = "both"
+choices = ["sound_physics_on", "sound_physics_off"]
+
+[flavor_groups.rain_sounds]
+name = "Rain Sounds"
+description = ""
 side = "client"
-choices = ["ambient_on", "ambient_off"]
+choices = ["rain_sounds_on", "rain_sounds_off"]
 
 [flavor_groups.stars]
 name = "Custom Stars"
-description = "TODO"
+description = ""
 side = "client"
 choices = ["stars_on", "stars_off"]
 
 [flavor_groups.effective]
 name = "Effective"
-description = "TODO"
+description = "Particles!"
 side = "client"
 choices = ["effective_on", "effective_off"]
 
 [flavor_groups.explosive_enhancement]
 name = "Explosive Enhancement"
-description = "TODO"
+description = "Pretty Explosions"
 side = "client"
 choices = ["explosive_enhancement_on", "explosive_enhancement_off"]
 
 [flavor_groups.animations]
 name = "Not Enough Animations"
-description = "TODO"
+description = ""
 side = "client"
 choices = ["animations_on", "animations_off"]
 
 [flavor_groups.presence_footsteps]
 name = "Presence Footsteps"
-description = "TODO"
+description = "Sounds based on the block you are walking on"
 side = "client"
 choices = ["presence_footsteps_on", "presence_footsteps_off"]
 
 [flavor_groups.pretty_rain]
 name = "Pretty Rain"
-description = "TODO"
+description = ""
 side = "client"
 choices = ["pretty_rain_on", "pretty_rain_off"]
 
 [flavor_groups.discord]
 name = "Discord Rich Presence"
-description = "TODO"
+description = ""
 side = "client"
 choices = ["discord_on", "discord_off"]
 
 [flavor_groups.visuality]
 name = "Visuality"
-description = "TODO"
+description = "Particles!"
 side = "client"
 choices = ["visuality_on", "visuality_off"]
 
+[metafile.sound-physics-remastered]
+flavors = "sound_physics_on"
+[metafile.cool-rain-reforged]
+flavors = "rain_sounds_on"
 [metafile.ambientsounds]
 flavors = "ambient_on"
 [metafile.custom-stars-forge]

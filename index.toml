@@ -30698,6 +30698,11 @@ hash = "9a42f65d66c36c0715e08e55432e7334d8728eb735ea80a6e270dce94526be2f"
 metafile = true
 
 [[files]]
+file = "mods/cool-rain-reforged.pw.toml"
+hash = "94866dd346d2c80e7f75710d0a4fb6f0ed35b7f1dc9d150f7d977d29e591f62d"
+metafile = true
+
+[[files]]
 file = "mods/copper-tuff-backport-fabric.pw.toml"
 hash = "cccebccceee1f78aff82ea011a3b9b85f0d811f48a2378247c808748419c8144"
 metafile = true
@@ -31483,6 +31488,11 @@ hash = "dda18cb30c6c88e7f45e29dfeb32273da72c159eb4e3469080d27ae2ff5a7fe9"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4aefba40bdf755330306cb06743cef60fb3c2cfb94779caf8ac06c692eb08a9e"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "1a207c92023b8a47c9c50be912e38b18c69f85f42449afd82130247a7e7d01f1"
 metafile = true
@@ -31759,4 +31769,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "06a5d3681be6624ef26cf5ec2c8f00d1076f483da4830c2e22ff7b9d081768c5"
+hash = "bb439579da0c2dd6cbe3c905ac9dbc85237fcc9c762dd935c62acafcf5331801"
