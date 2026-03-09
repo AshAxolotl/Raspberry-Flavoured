@@ -4,12 +4,6 @@ description = ""
 side = "both"
 choices = ["sound_physics_on", "sound_physics_off"]
 
-[flavor_groups.rain_sounds]
-name = "Rain Sounds"
-description = ""
-side = "client"
-choices = ["rain_sounds_on", "rain_sounds_off"]
-
 [flavor_groups.stars]
 name = "Custom Stars"
 description = ""
@@ -60,8 +54,6 @@ choices = ["visuality_on", "visuality_off"]
 
 [metafile.sound-physics-remastered]
 flavors = "sound_physics_on"
-[metafile.cool-rain-reforged]
-flavors = "rain_sounds_on"
 [metafile.ambientsounds]
 flavors = "ambient_on"
 [metafile.custom-stars-forge]

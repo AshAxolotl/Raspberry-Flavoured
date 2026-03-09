@@ -30698,11 +30698,6 @@ hash = "9a42f65d66c36c0715e08e55432e7334d8728eb735ea80a6e270dce94526be2f"
 metafile = true
 
 [[files]]
-file = "mods/cool-rain-reforged.pw.toml"
-hash = "bda100172460942f9bc83b8288b3fdca7ac14643ee3de871f1703997e613426a"
-metafile = true
-
-[[files]]
 file = "mods/copper-tuff-backport-fabric.pw.toml"
 hash = "cccebccceee1f78aff82ea011a3b9b85f0d811f48a2378247c808748419c8144"
 metafile = true
@@ -31774,4 +31769,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "bb439579da0c2dd6cbe3c905ac9dbc85237fcc9c762dd935c62acafcf5331801"
+hash = "43cf822b86d7378a9add7f80c26317a75734bab3f4ee0b79d07e4f4ec08d5acc"
