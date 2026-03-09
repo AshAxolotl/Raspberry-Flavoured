@@ -31349,7 +31349,7 @@ metafile = true
 
 [[files]]
 file = "mods/pretty-rain.pw.toml"
-hash = "d21646669b60ceee1490a1f01f41c5c17cbd66d076aa7975e020026ec5ddb432"
+hash = "553b737c28101c1ccfd36cb02b50573bf268508e99749233ebc833b63dcf6b67"
 metafile = true
 
 [[files]]
@@ -31769,4 +31769,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "f1febba5b1def84ef02ec6bebad1549456a7aca27d94f86d074b623e87342d39"
+hash = "001a40c29bedb2b1e78a7d762218ff79f56879f5da1407a2dc44ced5cc94db62"

@@ -1,6 +1,6 @@
 name = "Pretty Rain"
 filename = "Pretty Rain-1.19.2-Forge-1.1.1.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IhZuHxkl/versions/jivIT0rc/Pretty%20Rain-1.19.2-Forge-1.1.1.jar"

@@ -37,7 +37,7 @@ choices = ["presence_footsteps_on", "presence_footsteps_off"]
 [flavor_groups.pretty_rain]
 name = "Pretty Rain"
 description = "Particle Rain"
-side = "client"
+side = "both"
 choices = ["pretty_rain_on", "pretty_rain_off"]
 
 [flavor_groups.discord]
