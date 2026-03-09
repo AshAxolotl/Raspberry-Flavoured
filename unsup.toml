@@ -1,4 +1,4 @@
-[flavor_groups.ambientsounds]
+[flavor_groups.ambient]
 name = "AmbientSounds"
 description = "TODO"
 side = "client"
@@ -22,7 +22,7 @@ description = "TODO"
 side = "client"
 choices = ["explosive_enhancement_on", "explosive_enhancement_off"]
 
-[flavor_groups.not-enough_animations]
+[flavor_groups.animations]
 name = "Not Enough Animations"
 description = "TODO"
 side = "client"
@@ -40,7 +40,7 @@ description = "TODO"
 side = "client"
 choices = ["pretty_rain_on", "pretty_rain_off"]
 
-[flavor_groups.discord_rpc]
+[flavor_groups.discord]
 name = "Discord Rich Presence"
 description = "TODO"
 side = "client"
