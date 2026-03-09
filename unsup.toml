@@ -36,7 +36,7 @@ choices = ["presence_footsteps_on", "presence_footsteps_off"]
 
 [flavor_groups.pretty_rain]
 name = "Pretty Rain"
-description = ""
+description = "Particle Rain"
 side = "client"
 choices = ["pretty_rain_on", "pretty_rain_off"]
 
@@ -66,7 +66,7 @@ flavors = "explosive_enhancement_on"
 flavors = "animations_on"
 [metafile.presence-footsteps-forge]
 flavors = "presence_footsteps_on"
-[metafile.pretty_rain]
+[metafile.pretty-rain]
 flavors = "pretty_rain_on"
 [metafile.simple-discord-rpc]
 flavors = "discord_on"
