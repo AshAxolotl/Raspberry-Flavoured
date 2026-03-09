@@ -30454,7 +30454,7 @@ metafile = true
 
 [[files]]
 file = "mods/aquaculture-delight.pw.toml"
-hash = "930a2dd210d1ae76eeefea195b4f92c4113750f45d93ee0adb37f7a81b6267c8"
+hash = "00c58d7a3e734ee735172f263b73deb8062139e5091faab1302a0a1d9ee5f13f"
 metafile = true
 
 [[files]]
@@ -30969,7 +30969,7 @@ metafile = true
 
 [[files]]
 file = "mods/fog-looks-good-now.pw.toml"
-hash = "6891e8006d7ecfe1a1a5818638f40ece62b9810a670ee924812885f038fdd216"
+hash = "f380aca4a9c3f59561ecccdcd29c342b07c032919686d82cf2f957952e822396"
 metafile = true
 
 [[files]]
@@ -30979,7 +30979,7 @@ metafile = true
 
 [[files]]
 file = "mods/frame-changer.pw.toml"
-hash = "3fb701b00a228ad1bbd1e2be4c49b22708279dee2f97151bda69d8d2197f94e6"
+hash = "e0b8bc0901bf35df58f61f028b97c270b3c509426a8cf36633f51f62ef30be24"
 metafile = true
 
 [[files]]
@@ -31379,7 +31379,7 @@ metafile = true
 
 [[files]]
 file = "mods/raspberry-core.pw.toml"
-hash = "73a319014d3112a79ca0eab587c11c411d2366372b8cbab9603b6d378017a58a"
+hash = "8d9b871d1e3057c8500c159156d200dfe0d2d2d7e9b52a1c09e50e0f2b05ad72"
 metafile = true
 
 [[files]]
