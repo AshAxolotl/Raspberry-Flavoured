@@ -1978,7 +1978,7 @@ hash = "a040a6ecef6160349cf910f74139c563b644443c95602dcb42624ae549829be3"
 
 [[files]]
 file = "config/openloader/data/ZZZ_Advancements/pack.mcmeta"
-hash = "4edaf1f2cf5f1faf684724caba1cb6f39f864a7d1f3b457b0748ef16d458ea24"
+hash = "2d563b79ef768115c60be0f558e4dda88bf10b91b70971b9dab02a5f1a0cb288"
 
 [[files]]
 file = "config/openloader/resources/99_RaspberryResources/assets/abnormals_delight/lang/en_us.json"
