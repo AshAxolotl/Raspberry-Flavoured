@@ -1978,7 +1978,7 @@ hash = "a040a6ecef6160349cf910f74139c563b644443c95602dcb42624ae549829be3"
 
 [[files]]
 file = "config/openloader/data/ZZZ_Advancements/pack.mcmeta"
-hash = "65059fd9e377947dd4d3cf04273662176239673c9f837d8801199a7b94898584"
+hash = "4edaf1f2cf5f1faf684724caba1cb6f39f864a7d1f3b457b0748ef16d458ea24"
 
 [[files]]
 file = "config/openloader/resources/99_RaspberryResources/assets/abnormals_delight/lang/en_us.json"
@@ -15270,7 +15270,7 @@ hash = "6e2841e18a528ac26508239697d732aebb68d51a3e1d91efbcba545e4d9df880"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "50f258ccbe6acb0ce933da2bdf3ffa670c9a5627aac940d7b9bf0b081c4da0eb"
+hash = "8446fc03ccc04fea1a1e65a616c8974209265fd2445a48adb50b578c0b88ee87"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/ash_bag.json"
@@ -20898,7 +20898,7 @@ hash = "21b23564724546b4195f281fdb657231e2f6d4517038d3c3c10e64fb80642ce0"
 
 [[files]]
 file = "kubejs/client_scripts/descriptions.js"
-hash = "14ce8873e374c30ea0f2850f591e3166f33124032e90648b2213708ba9dac4b7"
+hash = "0c1e19de8b1fa22bc90eeebd3588ecef6168ea6d8f301c35a8d215327b5c4109"
 
 [[files]]
 file = "kubejs/client_scripts/ench_tablet_tooltips.js"
@@ -30270,7 +30270,7 @@ hash = "3a90e74573bf6c39f0021462e2f9c091150c49cde838fbd8095f9da4712c3c3f"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "459bf8a3a2f99ed445cce6521f00b7086d8f2719a9aec99c4429f9afb70f6931"
+hash = "3b7a96b3d8dbb494b50b13dc5bc5cf731d3a9c9c2d92f078d47339387119807d"
 
 [[files]]
 file = "kubejs/server_scripts/recycling.js"

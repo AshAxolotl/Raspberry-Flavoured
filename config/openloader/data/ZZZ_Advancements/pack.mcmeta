@@ -28,6 +28,10 @@
 			{
                 "namespace": "miningmaster",
                 "path": "advancements/.*"
+            },
+			{
+                "namespace": "lootr",
+                "path": "advancements/.*"
             }
         ]
     }
