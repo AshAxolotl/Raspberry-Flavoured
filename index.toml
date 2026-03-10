@@ -1089,6 +1089,10 @@ file = "config/logbegone.toml"
 hash = "87ea377c75a1b2513b2cb51d363ad5be38c9a9874eabb6df16579ce67a0ac3f4"
 
 [[files]]
+file = "config/lootr-client.toml"
+hash = "865c7ea2d2ba65ad63fc5db52b0f5ca59eb34f4f393b3df950df1e3204bbefa2"
+
+[[files]]
 file = "config/lucent-client.toml"
 hash = "612c7b2d78775b9cc72ac9c299f85ba97602a46ffaa41e2d3f98956fac86a6c9"
 
@@ -31140,6 +31144,11 @@ metafile = true
 [[files]]
 file = "mods/log-begone.pw.toml"
 hash = "4213fbf3c69dda9733f205d6a0d8d130cccb10f4271cd6a469bf3c99fa358c89"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "ff68ac8ed448d6229859aacdd4a1c5178dbd06b99189dbddfa6423ea1c2d3b37"
 metafile = true
 
 [[files]]
