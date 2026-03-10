@@ -34,12 +34,6 @@ description = "Sounds based on the block you are walking on"
 side = "client"
 choices = ["presence_footsteps_on", "presence_footsteps_off"]
 
-[flavor_groups.pretty_rain]
-name = "Pretty Rain"
-description = "Particle Rain"
-side = "both"
-choices = ["pretty_rain_on", "pretty_rain_off"]
-
 [flavor_groups.discord]
 name = "Discord Rich Presence"
 description = ""
@@ -66,8 +60,6 @@ flavors = "explosive_enhancement_on"
 flavors = "animations_on"
 [metafile.presence-footsteps-forge]
 flavors = "presence_footsteps_on"
-[metafile.pretty-rain]
-flavors = "pretty_rain_on"
 [metafile.simple-discord-rpc]
 flavors = "discord_on"
 [metafile.visuality-reforged]
