@@ -1145,6 +1145,14 @@ file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-client-startup_backup.js
 hash = "6f84de2210f5977d6f34b1f31a93b16edf52543cc69988b6546d1bc5d5169b1b"
 
 [[files]]
+file = "config/nostalgic_tweaks/backup/nostalgic_tweaks-server_backup.json"
+hash = "79228e68697e18bd82e5b343f3337ab5a7dff7bf3fea88b4cedf4a4163e2b361"
+
+[[files]]
+file = "config/nostalgic_tweaks/nostalgic_tweaks-server.json"
+hash = "79228e68697e18bd82e5b343f3337ab5a7dff7bf3fea88b4cedf4a4163e2b361"
+
+[[files]]
 file = "config/nostalgic_tweaks/nostalgic_tweaks.json"
 hash = "6f84de2210f5977d6f34b1f31a93b16edf52543cc69988b6546d1bc5d5169b1b"
 
@@ -15035,10 +15043,6 @@ hash = "e9a262af66fc404166c763513871418038a4a051727fb86be6ffa7c0d8cadf73"
 [[files]]
 file = "defaultconfigs/hourglass-server.toml"
 hash = "db21983122b9e9ba7c9e2f5b684a5372a5a1ee5b51b7bd6766d99ac819869370"
-
-[[files]]
-file = "defaultconfigs/nostalgic_tweaks/nostalgic_tweaks-server.json"
-hash = "79228e68697e18bd82e5b343f3337ab5a7dff7bf3fea88b4cedf4a4163e2b361"
 
 [[files]]
 file = "defaultconfigs/rrp.properties"
