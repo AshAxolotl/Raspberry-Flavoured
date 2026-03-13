@@ -30771,6 +30771,11 @@ hash = "5f25fc7780b589577a825f8e5f3063eda67c6057052f76054bd7620901a67ea6"
 metafile = true
 
 [[files]]
+file = "mods/custom-fov-illusive.pw.toml"
+hash = "991fd31ae986418706f43252388e7047f243bf6d9b0599f66c7620d1a5451f45"
+metafile = true
+
+[[files]]
 file = "mods/custom-stars-forge.pw.toml"
 hash = "d8279468f5781d78b8e2e3c7bf426e569ce1a214df82042ace3eda64a3c74e28"
 metafile = true
@@ -30968,6 +30973,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "0c820f51223c9f36609b2ab9c2cfe84c9f8920baee03d27535470e41330b9a76"
+metafile = true
+
+[[files]]
+file = "mods/figura-v5-support.pw.toml"
+hash = "74eb317dbd4ff48dd183534b0b3b2a6ef6d163ef7ed7ce293d4ae7ed4a394589"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Figura v5 support"
+filename = "figurav5addon-forge-1.2.2+split1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dDOISgs4/versions/xANxkEw4/figurav5addon-forge-1.2.2%2Bsplit1.jar"
+hash-format = "sha512"
+hash = "224daecb298cc0c84c89c30eb9925874bc6b479479ef7f277cabf69a7d94f90d308550fcc1c5c245638730f61f3062cf8b03193445cd23160ab7c169df069f45"
+
+[update]
+[update.modrinth]
+mod-id = "dDOISgs4"
+version = "xANxkEw4"
