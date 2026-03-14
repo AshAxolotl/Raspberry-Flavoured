@@ -1206,7 +1206,7 @@ ServerEvents.recipes(event => {
 	// Other stuff
 	event.custom({type: 'modestmining:forging', cooktime: 200, 
 	ingredients: [
-	{item: 'minecraft:coal'}, {item: 'minecraft:glowstone_dust'}, {item: 'minecraft:glowstone_dust'}, 
+	{tag: 'minecraft:coals'}, {item: 'minecraft:glowstone_dust'}, {item: 'minecraft:glowstone_dust'},
 	{item: 'create:cinder_flour'}, {item: 'create:cinder_flour'}, {item: 'create:cinder_flour'}
 	], result: {item: 'modestmining:coke'}}).id('modestmining:forging/coke')
 	event.custom({type: 'modestmining:forging', cooktime: 200, 
@@ -2410,7 +2410,7 @@ ServerEvents.recipes(event => {
 	event.recipes.create.mixing('oreganized:electrum_ingot', ['4x #forge:ingots/gold', '4x #forge:ingots/silver']).superheated().id('oreganized:electrum_ingot')
 	event.recipes.create.mixing('additionaladditions:rose_gold_alloy', ['4x #forge:ingots/gold', '4x #forge:ingots/copper']).heated()
 	event.recipes.create.mixing('4x alloyed:bronze_ingot', ['3x #forge:ingots/copper', '2x #forge:ingots/zinc', '#forge:ingots/lead']).heated()
-	event.recipes.create.mixing('modestmining:coke', ['coal', '2x glowstone_dust', '3x create:cinder_flour']).heated()
+	event.recipes.create.mixing('modestmining:coke', ['#minecraft:coals', '2x glowstone_dust', '3x create:cinder_flour']).heated()
 	event.recipes.create.mixing('2x magma_cream', ['2x slime_ball', Fluid.of('minecraft:lava',250)]).heated()
 	event.recipes.create.mixing('4x quark:framed_glass', ['#forge:gems/obsidian', '4x #minecraft:sand']).heated()
 	event.recipes.create.mixing(Fluid.of('kubejs:butter',250), ['kubejs:butter'])
