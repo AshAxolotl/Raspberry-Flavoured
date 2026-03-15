@@ -30481,8 +30481,8 @@ hash = "9d463025e15c5801f58f95b3c7f311e689c5b463876c67def4d36d7a8bcdcba8"
 metafile = true
 
 [[files]]
-file = "mods/armor-poser.pw.toml"
-hash = "0dd2529b2acce78f1f0ae987a62f102f25ee73e44901e6d5ddd43477f0bccf8f"
+file = "mods/armor-statues.pw.toml"
+hash = "f2132ebb9f9c4cd2890885e5e6b49a7e484eea761f244373067ad23eee2d73f9"
 metafile = true
 
 [[files]]
