@@ -283,7 +283,7 @@
 		"Use Corundum" = true
 
 [management]
-	"Quick Armor Swapping" = true
+	"Quick Armor Swapping" = false
 	"Item Sharing" = true
 	"Inventory Sorting" = true
 	"Hotbar Changer" = false
@@ -292,7 +292,7 @@
 	"Automatic Tool Restock" = true
 
 	[management.quick_armor_swapping]
-		"Swap Off Hand" = true
+		"Swap Off Hand" = false
 
 	[management.item_sharing]
 		"Render Items In Chat" = true

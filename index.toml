@@ -14774,7 +14774,7 @@ hash = "cb6f36066738793ffdab0f2c5ab6583fdc9de70a12b3f7fe892a59eea3c92acf"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "1918810c6222755e6febcfd079c2c3cad4b2da80c9d722402b5268dbf0b1fe69"
+hash = "7d4e4b52382079b0f11df30154eee07f604c002d0d969a2d095a0b5fa656f152"
 
 [[files]]
 file = "config/raised.json"
@@ -15030,7 +15030,7 @@ hash = "8478a38e2d6265ade898c12e1ca7ad9579659a4365a9f64f58e3152cbffe20f1"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "780d7f78d0656b2df96f53e722c22854cfe4b5319aaa51f3f80b18e6a73e2be9"
+hash = "7d7726af40c89185805f7f580173bad6f7ea2f1d4dd591e0bfb429a13a7c3f7e"
 
 [[files]]
 file = "defaultconfigs/easyshulkerboxes-server.toml"
@@ -30931,8 +30931,8 @@ hash = "0097517a0b26e602afe8ace322c549ae8e8c282e4ba93eee3598eccc937bce39"
 metafile = true
 
 [[files]]
-file = "mods/explosive-enhancement-reforged.pw.toml"
-hash = "5913f1c2f49abc8f17e982dbe7d2ce8950785cd952b94283ea0b8f1e00cd8550"
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "3184db58a36ca9699e0b62daef61a0159240f742cf6a83301161032e4bc154af"
 metafile = true
 
 [[files]]
